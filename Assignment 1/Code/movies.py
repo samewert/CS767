@@ -12,12 +12,12 @@ req = requests.get("https://en.wikipedia.org/wiki/Robert_Downey_Jr._filmography"
 soup = BeautifulSoup(req.content, 'html.parser')
 # print(soup.prettify())
 
-index = open("index.html", "w", encoding='utf-8')
+index = open("rdjWikiIndex.html", "w", encoding='utf-8')
 index.write(soup.prettify())
 index.close()
 
 
-csv = open("csv/tomHanksWiki.csv", "w", encoding='utf-8')
+csv = open("csv/rdjWiki.csv", "w", encoding='utf-8')
 
 table = soup.find('table', class_='wikitable sortable plainrowheaders')
 
