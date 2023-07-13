@@ -30,16 +30,16 @@ tableHead = table.find_all('th', attrs={'scope': 'col'})
 print(tableHead)
 
 if len(tableHead) > 5:
-    year = tableHead[0].get_text().rstrip()
-    title = tableHead[1].get_text().rstrip()
-    actor = tableHead[5].get_text().rstrip()
-    producer = tableHead[6].get_text().rstrip()
-    role = tableHead[7].get_text().rstrip()
+    year = tableHead[0].get_text().strip()
+    title = tableHead[1].get_text().strip()
+    actor = tableHead[5].get_text().strip()
+    producer = tableHead[6].get_text().strip()
+    role = tableHead[7].get_text().strip()
     csv.write(year + ',' + title + ',' + actor + ',' + producer + ',' + role + '\n')
 else:
-    year = tableHead[0].get_text().rstrip()
-    title = tableHead[1].get_text().rstrip()
-    role = tableHead[2].get_text().rstrip()
+    year = tableHead[0].get_text().strip()
+    title = tableHead[1].get_text().strip()
+    role = tableHead[2].get_text().strip()
     csv.write(year + ',' + title + ',' + role + '\n')
 
 
@@ -57,19 +57,19 @@ for i in range(2, len(body)):
 
     th = body[i].find('th', attrs={'scope':'row'})
     if(th != None):
-        year = th.get_text().rstrip()
+        year = th.get_text().strip()
 
     cols = body[i].find_all('td')
     if len(tableHead) > 5:
-        title = cols[0].get_text().rstrip()
-        actor = cols[1].get_text().rstrip()
-        producer = cols[2].get_text().rstrip()
-        role = cols[3].get_text().rstrip()
+        title = cols[0].get_text().strip()
+        actor = cols[1].get_text().strip()
+        producer = cols[2].get_text().strip()
+        role = cols[3].get_text().strip()
 
         csv.write(year + ',' + title + ',' + actor + ',' + producer + ',' + role + '\n')
     else:
-        title = cols[0].get_text().rstrip()
-        role = cols[1].get_text().rstrip()
+        title = cols[0].get_text().strip()
+        role = cols[1].get_text().strip()
 
         csv.write(year + ',' + title + ',' + role + '\n')
 
