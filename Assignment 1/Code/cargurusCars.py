@@ -33,12 +33,14 @@ def scrapeCraigslist(websites):
         carPrice = []
         for price in soup.find_all('span', class_='price'):
             price = price.find('span').get_text().strip()
+            price = price.replace('$','')
             carPrice.append(price.replace(',', ''))
         # print(carPrice)
 
         carMiles = []
         for mileage in soup.find_all('p', class_='mileageText'):
             mileage = mileage.find_all('span')[-1].get_text().strip()
+            mileage = mileage.split(' ')[0]
             carMiles.append(mileage.replace(',', ''))
         # print(carMiles)
 
@@ -69,7 +71,7 @@ def scrapeCraigslist(websites):
         assert(len(carTitle) == len(carPrice) == len(carMiles) == len(carLocation) == len(carMarket))
 
         for i in range(0, len(carPrice)):
-            csv.write(str(id) + ',')
+            csv.write('a' + str(id) + ',')
             csv.write(carTitle[i] + ',')
             csv.write(carPrice[i] + ',')
             csv.write(carMiles[i] + ',')
@@ -87,8 +89,9 @@ if __name__ == '__main__':
     site = 'https://www.cargurus.com/Cars/spt_used_cars-Brookfield_L39536#resultsPage={}'
 
     # for i in range(1, 1523):
-    for i in range(1, 100):
+    for i in range(1, 60):
         websites.append(site.format(i))
+
 
     # carGuru = ['https://www.cargurus.com/Cars/spt_used_cars-Brookfield_L39536#resultsPage=1']
     # tampaCraigslist = 'https://tampa.craigslist.org/search/sss?query=car#search=1~gallery~0~0'
