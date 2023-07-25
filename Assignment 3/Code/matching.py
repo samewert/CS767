@@ -69,6 +69,8 @@ def same(tableA, tableB):
     # editDistance(tableA, tableB)
     # jaccard(tableA, tableB)
 
+    onlyMatches = {}
+
     for b in range(0, len(tableB)):
         bTitle = tableB['Title'][b]
 
@@ -77,18 +79,28 @@ def same(tableA, tableB):
         for column, value in row.items():
             row_dict[column] = value
 
+        if bTitle in tableC:
+            onlyMatches[bTitle] = row_dict
+
+
         tableC[bTitle] = row_dict
 
     print('A Length: {}'.format(len(tableA)))
     print('B Length: {}'.format(len(tableB)))
-    print('C Length: {}'.format(len(tableC)))
+    print('C Consolidated Length: {}'.format(len(tableC)))
+    print('C Matches Length: {}'.format(len(onlyMatches)))
 
     columns = ['ID','ltable_ID','rtable_ID','ltable_Title','ltable_Price','ltable_Miles','rtable_Title','rtable_Price','rtable_Miles']
     combined = pd.DataFrame(tableC.values())
 
-    combined.to_csv('csv/matched.csv')
+    matches = pd.DataFrame(onlyMatches.values())
+
+    # combined.to_csv('csv/consolidated.csv')
+    #
+    # matches.to_csv('csv/matches.csv')
 
     print(combined.head())
+    print(matches.head())
 
 
 
@@ -99,7 +111,7 @@ if __name__ == '__main__':
     tableA = tableA.drop('Location', axis=1)
     tableB = pd.read_csv('csv/autotraderCars.csv')
 
-    cartesianTables(tableA, tableB)
+    # cartesianTables(tableA, tableB)
     # editDistance(tableA, tableB)
     # jaccard(tableA, tableB)
     same(tableA, tableB)
