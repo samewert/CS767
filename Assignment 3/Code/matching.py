@@ -95,9 +95,9 @@ def same(tableA, tableB):
 
     matches = pd.DataFrame(onlyMatches.values())
 
-    # combined.to_csv('csv/consolidated.csv')
-    #
-    # matches.to_csv('csv/matches.csv')
+    combined.to_csv('csv/consolidated.csv')
+
+    matches.to_csv('csv/matches.csv')
 
     print(combined.head())
     print(matches.head())
