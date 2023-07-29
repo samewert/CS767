@@ -30,7 +30,7 @@ def drawGraph(graph, pagerank):
 
 
 if __name__ == "__main__":
-    filename = 'csv/graph.csv'
+    filename = '../csv/graph.csv'
     graph = readGraphFromCsv(filename)
     pagerank = calculatePageRank(graph)
     print(pagerank)
