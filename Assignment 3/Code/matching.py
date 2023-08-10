@@ -62,7 +62,7 @@ def same(tableA, tableB):
         row = tableA.iloc[a]
         row_dict = {}
         for column, value in row.items():
-            row_dict[column] = value
+            row_dict['ltable_' + column] = value
 
         tableC[aTitle] = row_dict
 
@@ -77,36 +77,48 @@ def same(tableA, tableB):
         row = tableB.iloc[b]
         row_dict = {}
         for column, value in row.items():
-            row_dict[column] = value
+            row_dict['rtable_' + column] = value
 
         if bTitle in tableC:
-            onlyMatches[bTitle] = row_dict
+            a = tableC[bTitle]
+            match = a | row_dict
+            onlyMatches[bTitle] = match
+            # onlyMatches[bTitle] = row_dict
 
-
-        tableC[bTitle] = row_dict
+        # tableC[bTitle] = row_dict
 
     print('A Length: {}'.format(len(tableA)))
     print('B Length: {}'.format(len(tableB)))
     print('C Consolidated Length: {}'.format(len(tableC)))
     print('C Matches Length: {}'.format(len(onlyMatches)))
 
-    columns = ['ID','ltable_ID','rtable_ID','ltable_Title','ltable_Price','ltable_Miles','rtable_Title','rtable_Price','rtable_Miles']
+    columns = ['ltable_ID','rtable_ID','ltable_Title','ltable_Price','ltable_Miles','rtable_Title','rtable_Price','rtable_Miles']
     combined = pd.DataFrame(tableC.values())
 
     matches = pd.DataFrame(onlyMatches.values())
+    matches = matches.loc[:, columns]
 
-    combined.to_csv('csv/consolidated.csv')
+    combined.to_csv('csv/newConsolidated.csv')
 
-    matches.to_csv('csv/matches.csv')
+    matches.to_csv('csv/newMatches.csv')
 
     print(combined.head())
     print(matches.head())
 
+    matches = matches.drop('ltable_Title', axis=1)
+    matches = matches.drop('ltable_Price', axis=1)
+    matches = matches.drop('ltable_Miles', axis=1)
+
+    matches = matches.drop('rtable_Title', axis=1)
+    matches = matches.drop('rtable_Price', axis=1)
+    matches = matches.drop('rtable_Miles', axis=1)
+
+    matches.to_csv('csv/matchingIds.csv')
 
 
 if __name__ == '__main__':
 
-    tableA = pd.read_csv('csv/cargurusCars.csv')
+    tableA = pd.read_csv('csv/newCargurusCars.csv')
     tableA = tableA.drop('Market Price', axis=1)
     tableA = tableA.drop('Location', axis=1)
     tableB = pd.read_csv('csv/autotraderCars.csv')

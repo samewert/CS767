@@ -1,0 +1,1321 @@
+ID,Title,Price,Miles,Location,Market Price
+a1,2019 BMW X5 xDrive40i AWD,40977,51852,"Milwaukee, WI",$1619 below market
+a2,2020 Jeep Gladiator Rubicon Crew Cab 4WD,45989,34678,"Johnson Creek, WI",$227 below market
+a3,2020 Chrysler Pacifica Touring L FWD,22590,74716,"Waukesha, WI",$1818 below market
+a4,2016 Ford F-150 XLT SuperCrew 4WD,23999,91455,"Random Lake, WI",$2500 below market
+a5,2022 Chevrolet Equinox LT FWD with 1LT,25500,11885,"Waukesha, WI",$1720 below market
+a6,2022 Ford F-150 XLT SuperCrew 4WD,44995,23202,"Plymouth, WI",$4813 below market
+a7,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a8,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a9,2007 Chevrolet Silverado 1500 1LT Extended Cab 4WD,4500,201000,"Jackson, WI",$2231 below market
+a10,2021 Jeep Grand Cherokee L Summit Reserve 4WD,47999,32695,"West Allis, WI",$3854 below market
+a11,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a12,2020 Chevrolet Equinox 2.0T LT AWD,21895,40548,"Milwaukee, WI",$2144 below market
+a13,2018 Chevrolet Camaro 1LT Coupe RWD,23395,47519,"Milwaukee, WI",$2160 below market
+a14,2022 Ford Bronco Outer Banks Advanced 4-Door 4WD,56900,14446,"West Bend, WI",$5246 below market
+a15,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a16,2018 Ford Escape SEL AWD,16899,63169,"Gurnee, IL",$2596 below market
+a17,2022 GMC Terrain SLE AWD,27000,7826,"Plymouth, WI",$3568 below market
+a18,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a19,2019 Toyota Prius L Eco FWD,23726,40300,"Fox Lake, IL",$1075 below market
+a20,2019 Lexus ES Hybrid 300h FWD,38000,26176,"Brookfield, WI",$1425 below market
+a21,2021 Jeep Grand Cherokee Summit 4WD,46995,15097,"Milwaukee, WI",$2796 below market
+a22,2019 Kia Rio S FWD,11400,90785,"Gurnee, IL",$2032 below market
+a23,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a24,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a25,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a26,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a27,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a28,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a29,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a30,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a31,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a32,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a33,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a34,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a35,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a36,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a37,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a38,2021 Ford Explorer Limited AWD,34985,41540,"Watertown, WI",$2237 below market
+a39,2018 Toyota Tundra 1794 Edition CrewMax 5.7L 4WD,39995,59789,"Milwaukee, WI",$1858 below market
+a40,2022 Chrysler Pacifica Touring L FWD,28997,47928,"Waukesha, WI",$4199 below market
+a41,2020 Ford Expedition Limited 4WD,45990,58135,"Milwaukee, WI",$406 below market
+a42,2016 Ford F-150 XLT SuperCrew 4WD,23999,91455,"Random Lake, WI",$2500 below market
+a43,2022 Chevrolet Equinox LT FWD with 1LT,25500,11885,"Waukesha, WI",$1720 below market
+a44,2022 Ford F-150 XLT SuperCrew 4WD,44995,23202,"Plymouth, WI",$4813 below market
+a45,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a46,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a47,2007 Chevrolet Silverado 1500 1LT Extended Cab 4WD,4500,201000,"Jackson, WI",$2231 below market
+a48,2021 Jeep Grand Cherokee L Summit Reserve 4WD,47999,32695,"West Allis, WI",$3854 below market
+a49,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a50,2020 Chevrolet Equinox 2.0T LT AWD,21895,40548,"Milwaukee, WI",$2144 below market
+a51,2018 Chevrolet Camaro 1LT Coupe RWD,23395,47519,"Milwaukee, WI",$2160 below market
+a52,2022 Ford Bronco Outer Banks Advanced 4-Door 4WD,56900,14446,"West Bend, WI",$5246 below market
+a53,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a54,2018 Ford Escape SEL AWD,16899,63169,"Gurnee, IL",$2596 below market
+a55,2022 GMC Terrain SLE AWD,27000,7826,"Plymouth, WI",$3568 below market
+a56,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a57,2017 Lexus RX 350 F Sport AWD,26995,114408,"Watertown, WI",$679 below market
+a58,2021 BMW X1 xDrive28i AWD,29994,46803,"Milwaukee, WI",$1848 below market
+a59,2016 Jeep Compass Sport,10426,92988,"Fox Lake, IL",$2131 below market
+a60,2019 Chevrolet Silverado 1500 LT Crew Cab 4WD,36522,53958,"Waukesha, WI",$979 below market
+a61,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a62,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a63,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a64,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a65,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a66,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a67,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a68,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a69,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a70,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a71,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a72,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a73,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a74,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a75,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a76,2019 Subaru Outback 2.5i Premium AWD,21300,76088,"Milwaukee, WI",$1362 below market
+a77,2018 Jeep Grand Cherokee Overland 4WD,31695,36495,"Milwaukee, WI",$1229 below market
+a78,2017 Jeep Renegade Sport,17394,56821,"Milwaukee, WI",$498 above market
+a79,2020 GMC Savana Cargo 3500 Extended RWD,38471,43256,"Plymouth, WI",$226 above market
+a80,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a81,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a82,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a83,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a84,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a85,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a86,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a87,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a88,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a89,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a90,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a91,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a92,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a93,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a94,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a95,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a96,2021 Lexus RX 350 AWD,46000,26648,"Brookfield, WI",$545 above market
+a97,2021 Honda CR-V SE AWD,27897,44743,"Menomonee Falls, WI",$273 below market
+a98,2022 Toyota Corolla Cross LE FWD,27615,33537,"Watertown, WI",$1 above market
+a99,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a100,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a101,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a102,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a103,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a104,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a105,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a106,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a107,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a108,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a109,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a110,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a111,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a112,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a113,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a114,2019 Ford Flex SEL AWD,27500,62580,"Kenosha, WI",$1316 above market
+a115,2019 Jeep Cherokee Latitude FWD,19600,62763,"Lake Geneva, WI",$90 above market
+a116,2020 Chevrolet Silverado 1500 RST Crew Cab 4WD,44999,29966,"Sheboygan, WI",$785 above market
+a117,2020 Ford Edge SEL AWD,27500,12616,"Milwaukee, WI",$2984 below market
+a118,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a119,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a120,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a121,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a122,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a123,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a124,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a125,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a126,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a127,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a128,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a129,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a130,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a131,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a132,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a133,2021 Chevrolet Camaro 1SS Coupe RWD,47995,8226,"Waukesha, WI",$1561 below market
+a134,2021 Chevrolet Colorado ZR2 Crew Cab 4WD,40295,36292,"Milwaukee, WI",$989 below market
+a135,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a136,2022 Ford Bronco Sport Badlands 4WD,36917,5869,"Random Lake, WI",$1590 below market
+a137,2017 Chevrolet Sonic Premier Sedan FWD,7950,83829,"Salem, WI",$4331 below market
+a138,2019 Volkswagen Golf R AWD,32955,34071,"Fox Lake, IL",$5628 below market
+a139,2021 Jeep Wrangler Unlimited Rubicon 392 4WD,63865,10945,"Plymouth, WI",$12419 below market
+a140,2013 Honda Odyssey EX-L FWD,7499,169189,"Milwaukee, WI",$3679 below market
+a141,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a142,2018 RAM 1500 Express Crew Cab 4WD,15995,149988,"Milwaukee, WI",$4738 below market
+a143,2012 Chevrolet Avalanche LTZ 4WD,10995,134618,"Trevor, WI",$6150 below market
+a144,2013 Ford Escape SE AWD,6998,111077,"Milwaukee, WI",$3525 below market
+a145,2019 Chevrolet Blazer 3LT AWD,26184,42181,"Milwaukee, WI",$5836 below market
+a146,2008 Porsche Cayenne Turbo AWD,9995,118453,"Darien, WI",$6088 below market
+a147,2016 Hyundai Veloster Turbo FWD,14395,42120,"Milwaukee, WI",$3502 below market
+a148,2018 Lincoln MKX Reserve AWD,23000,50624,"Waukegan, IL",$5709 below market
+a149,2017 Chevrolet Bolt EV LT FWD,16995,19441,"Kenosha, WI",$3911 below market
+a150,2020 Chevrolet Colorado Z71 Crew Cab 4WD,29990,42778,"Mt Pleasant, WI",$4529 below market
+a151,2015 Honda Fit EX-L with Navi,10977,102339,"Jefferson, WI",$3004 below market
+a152,2021 Jeep Compass Trailhawk 4WD,23380,61120,"Antioch, IL",$976 below market
+a153,2022 Ford Escape Titanium AWD,36600,7061,"Thiensville, WI",$483 above market
+a154,2018 RAM 1500 Express Quad Cab 4WD,27499,41101,"Sheboygan, WI",$326 below market
+a155,2021 Chrysler Pacifica Hybrid Limited FWD,39800,26215,"Beaver Dam, WI",$808 below market
+a156,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a157,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a158,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a159,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a160,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a161,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a162,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a163,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a164,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a165,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a166,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a167,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a168,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a169,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a170,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a171,2017 Ford Expedition XL 4WD,19981,98009,"Oconomowoc, WI",$1064 above market
+a172,2019 Chevrolet Silverado 1500 Custom Double Cab 4WD,30995,67560,"Milwaukee, WI",$1211 below market
+a173,2022 GMC Sierra 1500 AT4 Crew Cab 4WD,62490,9860,"Burlington, WI",$1401 below market
+a174,2022 Ford F-150 XL SuperCrew 4WD,42900,10525,"Kenosha, WI",$1170 below market
+a175,2017 Chevrolet Sonic Premier Sedan FWD,7950,83829,"Salem, WI",$4331 below market
+a176,2019 Volkswagen Golf R AWD,32955,34071,"Fox Lake, IL",$5628 below market
+a177,2021 Jeep Wrangler Unlimited Rubicon 392 4WD,63865,10945,"Plymouth, WI",$12419 below market
+a178,2013 Honda Odyssey EX-L FWD,7499,169189,"Milwaukee, WI",$3679 below market
+a179,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a180,2018 RAM 1500 Express Crew Cab 4WD,15995,149988,"Milwaukee, WI",$4738 below market
+a181,2012 Chevrolet Avalanche LTZ 4WD,10995,134618,"Trevor, WI",$6150 below market
+a182,2013 Ford Escape SE AWD,6998,111077,"Milwaukee, WI",$3525 below market
+a183,2019 Chevrolet Blazer 3LT AWD,26184,42181,"Milwaukee, WI",$5836 below market
+a184,2008 Porsche Cayenne Turbo AWD,9995,118453,"Darien, WI",$6088 below market
+a185,2016 Hyundai Veloster Turbo FWD,14395,42120,"Milwaukee, WI",$3502 below market
+a186,2018 Lincoln MKX Reserve AWD,23000,50624,"Waukegan, IL",$5709 below market
+a187,2017 Chevrolet Bolt EV LT FWD,16995,19441,"Kenosha, WI",$3911 below market
+a188,2020 Chevrolet Colorado Z71 Crew Cab 4WD,29990,42778,"Mt Pleasant, WI",$4529 below market
+a189,2015 Honda Fit EX-L with Navi,10977,102339,"Jefferson, WI",$3004 below market
+a190,2018 Toyota RAV4 Hybrid Limited AWD,25795,81176,"West Bend, WI",$630 below market
+a191,2020 Ford F-150 Lariat SuperCrew 4WD,45989,28173,"Milwaukee, WI",$2365 below market
+a192,2022 Honda CR-V EX AWD,30421,14190,"West Bend, WI",$1040 below market
+a193,2023 Porsche Macan T AWD,64933,3086,"Milwaukee, WI",$1916 below market
+a194,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a195,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a196,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a197,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a198,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a199,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a200,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a201,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a202,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a203,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a204,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a205,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a206,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a207,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a208,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a209,2022 Ford E-Series Chassis E-350 SD Cutaway DRW RWD,49963,15257,"Fort Atkinson, WI",$1248 below market
+a210,2022 GMC Sierra 1500 Elevation Crew Cab 4WD,49495,9138,"Milwaukee, WI",$27 below market
+a211,2021 Nissan Rogue Sport S AWD,18236,61369,"Oak Creek, WI",$1937 below market
+a212,2020 Volkswagen Tiguan SEL 4Motion,30990,17891,"Franklin, WI",$736 above market
+a213,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a214,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a215,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a216,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a217,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a218,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a219,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a220,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a221,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a222,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a223,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a224,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a225,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a226,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a227,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a228,2019 Chevrolet Bolt EV LT FWD,21649,18130,"Plymouth, WI",$95 above market
+a229,2021 Lexus NX Hybrid 300h AWD,41333,11976,"Milwaukee, WI",$1371 below market
+a230,2019 Jeep Grand Cherokee High Altitude 4WD,35241,18450,"Plymouth, WI",$3797 below market
+a231,2012 Chevrolet Captiva Sport 2LS,8537,91544,"Plymouth, WI",$1486 below market
+a232,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a233,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a234,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a235,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a236,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a237,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a238,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a239,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a240,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a241,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a242,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a243,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a244,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a245,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a246,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a247,2016 BMW M4 Convertible RWD,35700,76950,"Kenosha, WI",$1550 below market
+a248,2015 Hyundai Santa Fe GLS AWD,10000,159491,"West Allis, WI",$1091 below market
+a249,2021 Toyota Tacoma TRD Sport Double Cab 4WD,36277,56499,"West Bend, WI",$466 below market
+a250,2020 Ford Edge SEL AWD,25490,67519,"Mequon, WI",$513 above market
+a251,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a252,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a253,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a254,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a255,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a256,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a257,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a258,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a259,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a260,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a261,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a262,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a263,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a264,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a265,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a266,2021 Ford F-150 Lariat SuperCrew 4WD,47990,58048,"Milwaukee, WI",$12 below market
+a267,2020 Lexus RX 350 AWD,42949,24874,"Milwaukee, WI",$1541 below market
+a268,2020 Chevrolet Equinox 1.5T LT FWD,22795,34346,"Milwaukee, WI",$768 below market
+a269,2021 Ford F-150 XLT SuperCrew 4WD,41488,54600,"Milwaukee, WI",$1213 below market
+a270,2016 Ford F-150 XLT SuperCrew 4WD,23999,91455,"Random Lake, WI",$2500 below market
+a271,2022 Chevrolet Equinox LT FWD with 1LT,25500,11885,"Waukesha, WI",$1720 below market
+a272,2022 Ford F-150 XLT SuperCrew 4WD,44995,23202,"Plymouth, WI",$4813 below market
+a273,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a274,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a275,2007 Chevrolet Silverado 1500 1LT Extended Cab 4WD,4500,201000,"Jackson, WI",$2231 below market
+a276,2021 Jeep Grand Cherokee L Summit Reserve 4WD,47999,32695,"West Allis, WI",$3854 below market
+a277,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a278,2020 Chevrolet Equinox 2.0T LT AWD,21895,40548,"Milwaukee, WI",$2144 below market
+a279,2018 Chevrolet Camaro 1LT Coupe RWD,23395,47519,"Milwaukee, WI",$2160 below market
+a280,2022 Ford Bronco Outer Banks Advanced 4-Door 4WD,56900,14446,"West Bend, WI",$5246 below market
+a281,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a282,2018 Ford Escape SEL AWD,16899,63169,"Gurnee, IL",$2596 below market
+a283,2022 GMC Terrain SLE AWD,27000,7826,"Plymouth, WI",$3568 below market
+a284,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a285,2021 Volvo XC40 T5 R-Design AWD,37273,23769,"Waukesha, WI",$1430 below market
+a286,2015 Scion tC,15595,51025,"Milwaukee, WI",$978 below market
+a287,2018 Volkswagen Tiguan Limited 4Motion AWD,18997,49064,"Milwaukee, WI",$459 below market
+a288,2017 Chevrolet Silverado 2500HD LT Crew Cab 4WD,33000,108306,"Plymouth, WI",$1300 below market
+a289,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a290,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a291,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a292,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a293,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a294,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a295,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a296,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a297,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a298,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a299,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a300,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a301,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a302,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a303,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a304,2003 Chevrolet Corvette Convertible RWD,24905,45274,"Racine, WI",$886 below market
+a305,2022 Volkswagen Taos SE 4Motion,28350,4448,"Franklin, WI",$1172 below market
+a306,2020 Ford Edge SEL AWD,22624,54825,"Milwaukee, WI",$3428 below market
+a307,2017 Ford Edge Titanium AWD,25000,32708,"West Allis, WI",$556 below market
+a308,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a309,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a310,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a311,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a312,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a313,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a314,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a315,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a316,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a317,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a318,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a319,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a320,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a321,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a322,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a323,2020 Jeep Compass Trailhawk 4WD,21598,65875,"Oak Creek, WI",$1270 below market
+a324,2018 Ford Escape SE AWD,17987,73362,"Milwaukee, WI",$233 below market
+a325,2018 Dodge Grand Caravan SE FWD,18300,68264,"Oconomowoc, WI",$659 above market
+a326,2020 BMW X3 M40i AWD,43576,48016,"Milwaukee, WI",$377 above market
+a327,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a328,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a329,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a330,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a331,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a332,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a333,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a334,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a335,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a336,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a337,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a338,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a339,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a340,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a341,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a342,2022 Dodge Charger GT RWD,32976,26497,"Milwaukee, WI",$374 above market
+a343,2022 Volkswagen Taos SE 4Motion,28770,5011,"Franklin, WI",$716 below market
+a344,2022 Chevrolet Blazer 1LT AWD,35487,9321,"Oak Creek, WI",$1851 below market
+a345,2020 Chevrolet Silverado 1500 Custom Crew Cab LB 4WD,37350,24824,"Kenosha, WI",$1525 below market
+a346,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a347,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a348,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a349,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a350,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a351,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a352,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a353,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a354,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a355,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a356,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a357,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a358,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a359,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a360,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a361,2021 Hyundai Tucson SE AWD,16444,119648,"Waukesha, WI",$544 below market
+a362,2018 Porsche 718 Boxster S RWD,67999,13369,"Milwaukee, WI",$1849 below market
+a363,2016 Hyundai Sonata SE FWD,10501,115912,"Milwaukee, WI",$654 below market
+a364,2017 Chevrolet Bolt EV LT FWD,18986,35199,"Plymouth, WI",$920 below market
+a365,2016 Ford F-150 XLT SuperCrew 4WD,23999,91455,"Random Lake, WI",$2500 below market
+a366,2022 Chevrolet Equinox LT FWD with 1LT,25500,11885,"Waukesha, WI",$1720 below market
+a367,2022 Ford F-150 XLT SuperCrew 4WD,44995,23202,"Plymouth, WI",$4813 below market
+a368,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a369,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a370,2007 Chevrolet Silverado 1500 1LT Extended Cab 4WD,4500,201000,"Jackson, WI",$2231 below market
+a371,2021 Jeep Grand Cherokee L Summit Reserve 4WD,47999,32695,"West Allis, WI",$3854 below market
+a372,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a373,2020 Chevrolet Equinox 2.0T LT AWD,21895,40548,"Milwaukee, WI",$2144 below market
+a374,2018 Chevrolet Camaro 1LT Coupe RWD,23395,47519,"Milwaukee, WI",$2160 below market
+a375,2022 Ford Bronco Outer Banks Advanced 4-Door 4WD,56900,14446,"West Bend, WI",$5246 below market
+a376,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a377,2018 Ford Escape SEL AWD,16899,63169,"Gurnee, IL",$2596 below market
+a378,2022 GMC Terrain SLE AWD,27000,7826,"Plymouth, WI",$3568 below market
+a379,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a380,2017 Jeep Cherokee North FWD,17994,66358,"Mount Pleasant, WI",$997 below market
+a381,2018 Jaguar F-PACE 30t Portfolio AWD,30990,57298,"Milwaukee, WI",$1673 below market
+a382,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a383,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a384,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a385,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a386,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a387,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a388,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a389,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a390,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a391,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a392,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a393,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a394,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a395,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a396,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a397,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a398,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a399,2019 Kia Rio S FWD,11400,90785,"Gurnee, IL",$2032 below market
+a400,2020 Kia Rio S FWD,15926,37437,"Fox Lake, IL",$720 below market
+a401,2022 Jeep Compass Latitude Lux 4WD,27912,24317,"Plymouth, WI",$1333 below market
+a402,2021 Dodge Durango R/T AWD,35989,72510,"Waukesha, WI",$1337 below market
+a403,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a404,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a405,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a406,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a407,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a408,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a409,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a410,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a411,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a412,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a413,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a414,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a415,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a416,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a417,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a418,2017 Chevrolet Bolt EV LT FWD,18000,35215,"Plymouth, WI",$1905 below market
+a419,2017 Ford F-250 Super Duty XLT Crew Cab LB 4WD,48700,38422,"Kenosha, WI",$1483 below market
+a420,2021 Chevrolet Blazer 2LT AWD,28955,38113,"Fox Lake, IL",$737 below market
+a421,2023 Ford Mustang Mach 1 Fastback RWD,59500,2811,"Kenosha, WI",$1893 below market
+a422,2017 Chevrolet Sonic Premier Sedan FWD,7950,83829,"Salem, WI",$4331 below market
+a423,2019 Volkswagen Golf R AWD,32955,34071,"Fox Lake, IL",$5628 below market
+a424,2021 Jeep Wrangler Unlimited Rubicon 392 4WD,63865,10945,"Plymouth, WI",$12419 below market
+a425,2013 Honda Odyssey EX-L FWD,7499,169189,"Milwaukee, WI",$3679 below market
+a426,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a427,2018 RAM 1500 Express Crew Cab 4WD,15995,149988,"Milwaukee, WI",$4738 below market
+a428,2012 Chevrolet Avalanche LTZ 4WD,10995,134618,"Trevor, WI",$6150 below market
+a429,2013 Ford Escape SE AWD,6998,111077,"Milwaukee, WI",$3525 below market
+a430,2019 Chevrolet Blazer 3LT AWD,26184,42181,"Milwaukee, WI",$5836 below market
+a431,2008 Porsche Cayenne Turbo AWD,9995,118453,"Darien, WI",$6088 below market
+a432,2016 Hyundai Veloster Turbo FWD,14395,42120,"Milwaukee, WI",$3502 below market
+a433,2018 Lincoln MKX Reserve AWD,23000,50624,"Waukegan, IL",$5709 below market
+a434,2017 Chevrolet Bolt EV LT FWD,16995,19441,"Kenosha, WI",$3911 below market
+a435,2020 Chevrolet Colorado Z71 Crew Cab 4WD,29990,42778,"Mt Pleasant, WI",$4529 below market
+a436,2015 Honda Fit EX-L with Navi,10977,102339,"Jefferson, WI",$3004 below market
+a437,2018 Subaru WRX Limited,23995,72813,"Plymouth, WI",$566 below market
+a438,2019 Ford F-150 XLT SuperCrew 4WD,35496,54868,"Milwaukee, WI",$789 below market
+a439,2021 GMC Sierra 1500 Denali Crew Cab 4WD,48185,58872,"Milwaukee, WI",$2085 below market
+a440,2021 Subaru Crosstrek Limited AWD,27988,36454,"Fox Lake, IL",$697 below market
+a441,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a442,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a443,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a444,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a445,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a446,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a447,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a448,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a449,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a450,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a451,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a452,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a453,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a454,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a455,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a456,2022 Nissan LEAF SL Plus FWD,26795,11458,"Greenfield, WI",$299 below market
+a457,2018 Volkswagen Tiguan Limited 4Motion AWD,18997,49064,"Milwaukee, WI",$459 below market
+a458,2019 Kia Sorento L FWD,16989,82428,"Brookfield, WI",$1310 below market
+a459,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,49418,12828,"Plymouth, WI",$1087 below market
+a460,2017 Chevrolet Sonic Premier Sedan FWD,7950,83829,"Salem, WI",$4331 below market
+a461,2019 Volkswagen Golf R AWD,32955,34071,"Fox Lake, IL",$5628 below market
+a462,2021 Jeep Wrangler Unlimited Rubicon 392 4WD,63865,10945,"Plymouth, WI",$12419 below market
+a463,2013 Honda Odyssey EX-L FWD,7499,169189,"Milwaukee, WI",$3679 below market
+a464,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a465,2018 RAM 1500 Express Crew Cab 4WD,15995,149988,"Milwaukee, WI",$4738 below market
+a466,2012 Chevrolet Avalanche LTZ 4WD,10995,134618,"Trevor, WI",$6150 below market
+a467,2013 Ford Escape SE AWD,6998,111077,"Milwaukee, WI",$3525 below market
+a468,2019 Chevrolet Blazer 3LT AWD,26184,42181,"Milwaukee, WI",$5836 below market
+a469,2008 Porsche Cayenne Turbo AWD,9995,118453,"Darien, WI",$6088 below market
+a470,2016 Hyundai Veloster Turbo FWD,14395,42120,"Milwaukee, WI",$3502 below market
+a471,2018 Lincoln MKX Reserve AWD,23000,50624,"Waukegan, IL",$5709 below market
+a472,2017 Chevrolet Bolt EV LT FWD,16995,19441,"Kenosha, WI",$3911 below market
+a473,2020 Chevrolet Colorado Z71 Crew Cab 4WD,29990,42778,"Mt Pleasant, WI",$4529 below market
+a474,2015 Honda Fit EX-L with Navi,10977,102339,"Jefferson, WI",$3004 below market
+a475,2017 Chevrolet Equinox LT AWD,14990,96925,"Burlington, WI",$591 below market
+a476,2022 GMC Sierra 1500 AT4 Crew Cab 4WD,61595,20912,"Milwaukee, WI",$1197 below market
+a477,2021 Jeep Grand Cherokee Laredo E 4WD,29800,42930,"Beaver Dam, WI",$1581 below market
+a478,2021 Chrysler Pacifica Hybrid Limited FWD,39800,26215,"Beaver Dam, WI",$808 below market
+a479,2017 Chevrolet Sonic Premier Sedan FWD,7950,83829,"Salem, WI",$4331 below market
+a480,2019 Volkswagen Golf R AWD,32955,34071,"Fox Lake, IL",$5628 below market
+a481,2021 Jeep Wrangler Unlimited Rubicon 392 4WD,63865,10945,"Plymouth, WI",$12419 below market
+a482,2013 Honda Odyssey EX-L FWD,7499,169189,"Milwaukee, WI",$3679 below market
+a483,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a484,2018 RAM 1500 Express Crew Cab 4WD,15995,149988,"Milwaukee, WI",$4738 below market
+a485,2012 Chevrolet Avalanche LTZ 4WD,10995,134618,"Trevor, WI",$6150 below market
+a486,2013 Ford Escape SE AWD,6998,111077,"Milwaukee, WI",$3525 below market
+a487,2019 Chevrolet Blazer 3LT AWD,26184,42181,"Milwaukee, WI",$5836 below market
+a488,2008 Porsche Cayenne Turbo AWD,9995,118453,"Darien, WI",$6088 below market
+a489,2016 Hyundai Veloster Turbo FWD,14395,42120,"Milwaukee, WI",$3502 below market
+a490,2018 Lincoln MKX Reserve AWD,23000,50624,"Waukegan, IL",$5709 below market
+a491,2017 Chevrolet Bolt EV LT FWD,16995,19441,"Kenosha, WI",$3911 below market
+a492,2020 Chevrolet Colorado Z71 Crew Cab 4WD,29990,42778,"Mt Pleasant, WI",$4529 below market
+a493,2015 Honda Fit EX-L with Navi,10977,102339,"Jefferson, WI",$3004 below market
+a494,2019 Jeep Grand Cherokee Limited 4WD,27500,63854,"Plymouth, WI",$1652 below market
+a495,2019 Ford Edge Titanium AWD,26799,54155,"Milwaukee, WI",$488 below market
+a496,2019 Lexus ES Hybrid 300h FWD,38000,26176,"Brookfield, WI",$1425 below market
+a497,2018 Ford F-150 XLT SuperCrew 4WD,24489,122792,"Johnson Creek, WI",$1303 below market
+a498,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a499,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a500,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a501,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a502,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a503,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a504,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a505,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a506,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a507,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a508,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a509,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a510,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a511,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a512,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a513,2021 Ford F-150 XLT SuperCrew 4WD,41488,54600,"Milwaukee, WI",$1213 below market
+a514,2022 GMC Sierra 1500 AT4 Crew Cab 4WD,60985,16329,"Milwaukee, WI",$2572 below market
+a515,2021 Kia Seltos S Turbo AWD,23995,17127,"Gurnee, IL",$531 below market
+a516,2022 RAM 2500 Tradesman LB 4WD,47000,972,"Plymouth, WI",$3173 below market
+a517,2017 Chevrolet Sonic Premier Sedan FWD,7950,83829,"Salem, WI",$4331 below market
+a518,2019 Volkswagen Golf R AWD,32955,34071,"Fox Lake, IL",$5628 below market
+a519,2021 Jeep Wrangler Unlimited Rubicon 392 4WD,63865,10945,"Plymouth, WI",$12419 below market
+a520,2013 Honda Odyssey EX-L FWD,7499,169189,"Milwaukee, WI",$3679 below market
+a521,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a522,2018 RAM 1500 Express Crew Cab 4WD,15995,149988,"Milwaukee, WI",$4738 below market
+a523,2012 Chevrolet Avalanche LTZ 4WD,10995,134618,"Trevor, WI",$6150 below market
+a524,2013 Ford Escape SE AWD,6998,111077,"Milwaukee, WI",$3525 below market
+a525,2019 Chevrolet Blazer 3LT AWD,26184,42181,"Milwaukee, WI",$5836 below market
+a526,2008 Porsche Cayenne Turbo AWD,9995,118453,"Darien, WI",$6088 below market
+a527,2016 Hyundai Veloster Turbo FWD,14395,42120,"Milwaukee, WI",$3502 below market
+a528,2018 Lincoln MKX Reserve AWD,23000,50624,"Waukegan, IL",$5709 below market
+a529,2017 Chevrolet Bolt EV LT FWD,16995,19441,"Kenosha, WI",$3911 below market
+a530,2020 Chevrolet Colorado Z71 Crew Cab 4WD,29990,42778,"Mt Pleasant, WI",$4529 below market
+a531,2015 Honda Fit EX-L with Navi,10977,102339,"Jefferson, WI",$3004 below market
+a532,2019 Chevrolet Silverado 1500 High Country Crew Cab 4WD,46831,44048,"West Bend, WI",$1764 below market
+a533,2019 Lexus GX 460 AWD,40000,46372,"Brookfield, WI",$890 below market
+a534,2022 Hyundai Tucson Hybrid Limited AWD,33211,39217,"West Bend, WI",$441 below market
+a535,2018 Honda Accord 2.0T Sport FWD,24601,56850,"West Bend, WI",$571 below market
+a536,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a537,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a538,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a539,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a540,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a541,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a542,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a543,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a544,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a545,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a546,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a547,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a548,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a549,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a550,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a551,2012 GMC Terrain SLT2 AWD,10000,132153,"Thiensville, WI",$404 below market
+a552,2020 BMW M4 Convertible RWD,60963,16570,"Milwaukee, WI",$4455 below market
+a553,2021 Mercedes-Benz GLE-Class GLE 450 4MATIC AWD,61628,33300,"Milwaukee, WI",$1529 below market
+a554,2022 Audi Q5 quattro Premium Plus S Line 45 TFSI AWD,41995,9139,"Milwaukee, WI",$1829 below market
+a555,2016 Ford F-150 XLT SuperCrew 4WD,23999,91455,"Random Lake, WI",$2500 below market
+a556,2022 Chevrolet Equinox LT FWD with 1LT,25500,11885,"Waukesha, WI",$1720 below market
+a557,2022 Ford F-150 XLT SuperCrew 4WD,44995,23202,"Plymouth, WI",$4813 below market
+a558,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a559,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a560,2007 Chevrolet Silverado 1500 1LT Extended Cab 4WD,4500,201000,"Jackson, WI",$2231 below market
+a561,2021 Jeep Grand Cherokee L Summit Reserve 4WD,47999,32695,"West Allis, WI",$3854 below market
+a562,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a563,2020 Chevrolet Equinox 2.0T LT AWD,21895,40548,"Milwaukee, WI",$2144 below market
+a564,2018 Chevrolet Camaro 1LT Coupe RWD,23395,47519,"Milwaukee, WI",$2160 below market
+a565,2022 Ford Bronco Outer Banks Advanced 4-Door 4WD,56900,14446,"West Bend, WI",$5246 below market
+a566,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a567,2018 Ford Escape SEL AWD,16899,63169,"Gurnee, IL",$2596 below market
+a568,2022 GMC Terrain SLE AWD,27000,7826,"Plymouth, WI",$3568 below market
+a569,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a570,2022 Chevrolet Silverado 1500 ZR2 Crew Cab 4WD,64755,7618,"Milwaukee, WI",$2431 below market
+a571,2018 Ford Explorer Sport AWD,24102,104795,"Waukesha, WI",$364 below market
+a572,2018 RAM 1500 Laramie Crew Cab 4WD,30299,95898,"Random Lake, WI",$508 below market
+a573,2019 Nissan Murano SV AWD,23945,35261,"Milwaukee, WI",$765 below market
+a574,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a575,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a576,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a577,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a578,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a579,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a580,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a581,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a582,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a583,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a584,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a585,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a586,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a587,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a588,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a589,2020 Ford Escape Titanium AWD,27226,31629,"West Bend, WI",$1547 below market
+a590,2020 Ford Expedition Limited 4WD,45990,58135,"Milwaukee, WI",$406 below market
+a591,2021 RAM 1500 Rebel Crew Cab 4WD,41990,64510,"Burlington, WI",$3146 below market
+a592,2020 Honda CR-V EX AWD,27526,33671,"Fox Lake, IL",$783 below market
+a593,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a594,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a595,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a596,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a597,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a598,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a599,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a600,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a601,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a602,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a603,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a604,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a605,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a606,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a607,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a608,2022 Ford Edge Titanium AWD,29643,40994,"Milwaukee, WI",$1489 below market
+a609,2021 Chevrolet Equinox LT FWD with 1LT,22459,57186,"Waukesha, WI",$253 above market
+a610,2019 Lincoln Navigator Black Label 4WD,54066,59321,"Plymouth, WI",$357 above market
+a611,2021 BMW X4 M40i AWD,53489,45424,"Milwaukee, WI",$430 above market
+a612,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a613,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a614,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a615,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a616,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a617,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a618,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a619,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a620,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a621,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a622,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a623,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a624,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a625,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a626,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a627,2022 Jeep Compass Trailhawk 4WD,31133,8530,"Jefferson, WI",$1165 below market
+a628,2019 Chevrolet Colorado ZR2 Crew Cab 4WD,40595,27942,"Milwaukee, WI",$975 below market
+a629,2020 Subaru Ascent Limited 7-Passenger AWD,23847,104954,"Milwaukee, WI",$2877 below market
+a630,2020 RAM 1500 Big Horn Crew Cab 4WD,38492,39721,"Jefferson, WI",$1998 below market
+a631,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a632,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a633,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a634,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a635,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a636,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a637,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a638,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a639,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a640,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a641,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a642,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a643,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a644,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a645,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a646,2023 Jeep Wrangler 4xe Sahara 4WD,48652,550,"Plymouth, WI",$3440 below market
+a647,2023 Ford Bronco Sport Heritage Limited 4WD,44800,2641,"Kenosha, WI",$1099 below market
+a648,2019 GMC Sierra 1500 Elevation Double Cab 4WD,39501,22618,"Lomira, WI",$863 below market
+a649,2020 Toyota Highlander XLE AWD,34933,37517,"Bristol, WI",$2144 below market
+a650,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a651,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a652,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a653,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a654,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a655,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a656,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a657,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a658,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a659,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a660,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a661,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a662,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a663,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a664,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a665,2020 Toyota RAV4 XLE AWD,26990,65885,"Waukesha, WI",$814 below market
+a666,2018 Ford F-150 Raptor SuperCrew 4WD,51500,61634,"Kenosha, WI",$1654 below market
+a667,2012 RAM 1500 Sport Crew Cab 4WD,16870,133870,"Gurnee, IL",$1146 below market
+a668,2020 Honda Civic LX Sedan FWD,21123,22293,"Greenfield, WI",$1689 below market
+a669,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a670,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a671,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a672,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a673,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a674,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a675,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a676,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a677,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a678,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a679,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a680,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a681,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a682,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a683,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a684,2022 GMC Sierra 1500 AT4 Crew Cab 4WD,61795,7637,"Milwaukee, WI",$3214 below market
+a685,2021 BMW X1 xDrive28i AWD,29397,52256,"Milwaukee, WI",$1561 below market
+a686,2020 Mazda CX-9 Signature AWD,34376,35525,"Milwaukee, WI",$425 below market
+a687,2020 Mitsubishi Outlander SEL FWD,18994,75222,"Waukesha, WI",$415 below market
+a688,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a689,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a690,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a691,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a692,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a693,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a694,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a695,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a696,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a697,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a698,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a699,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a700,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a701,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a702,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a703,2016 Nissan Maxima SR,16500,96828,"Beaver Dam, WI",$944 below market
+a704,2021 Ford F-150 XLT SuperCrew 4WD,44237,28520,"Menomonee Falls, WI",$741 below market
+a705,2022 Chevrolet Equinox RS with 1RS AWD,31889,7098,"Plymouth, WI",$920 below market
+a706,2021 GMC Sierra 1500 Elevation Crew Cab 4WD,46595,22776,"Milwaukee, WI",$0 above market
+a707,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a708,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a709,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a710,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a711,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a712,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a713,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a714,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a715,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a716,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a717,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a718,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a719,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a720,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a721,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a722,2023 Kia Sorento X-Line S AWD,37995,11136,"Racine, WI",$1141 above market
+a723,2018 Ford F-150 Raptor SuperCrew 4WD,51500,61634,"Kenosha, WI",$1654 below market
+a724,2016 Chevrolet Equinox LT AWD,11999,128195,"Mukwonago, WI",$241 below market
+a725,2019 Kia Sorento L FWD,16989,82428,"Brookfield, WI",$1310 below market
+a726,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a727,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a728,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a729,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a730,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a731,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a732,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a733,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a734,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a735,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a736,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a737,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a738,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a739,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a740,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a741,2018 RAM 1500 Laramie Crew Cab 4WD,30299,95898,"Random Lake, WI",$508 below market
+a742,2018 Ford F-150 Limited SuperCrew 4WD,40996,70352,"Milwaukee, WI",$808 below market
+a743,2021 Jeep Grand Cherokee 80th Anniversary Edition 4WD,40452,8610,"Jefferson, WI",$576 below market
+a744,2020 Ford Edge ST AWD,33488,24620,"West Bend, WI",$2180 below market
+a745,2017 Chevrolet Sonic Premier Sedan FWD,7950,83829,"Salem, WI",$4331 below market
+a746,2019 Volkswagen Golf R AWD,32955,34071,"Fox Lake, IL",$5628 below market
+a747,2021 Jeep Wrangler Unlimited Rubicon 392 4WD,63865,10945,"Plymouth, WI",$12419 below market
+a748,2013 Honda Odyssey EX-L FWD,7499,169189,"Milwaukee, WI",$3679 below market
+a749,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a750,2018 RAM 1500 Express Crew Cab 4WD,15995,149988,"Milwaukee, WI",$4738 below market
+a751,2012 Chevrolet Avalanche LTZ 4WD,10995,134618,"Trevor, WI",$6150 below market
+a752,2013 Ford Escape SE AWD,6998,111077,"Milwaukee, WI",$3525 below market
+a753,2019 Chevrolet Blazer 3LT AWD,26184,42181,"Milwaukee, WI",$5836 below market
+a754,2008 Porsche Cayenne Turbo AWD,9995,118453,"Darien, WI",$6088 below market
+a755,2016 Hyundai Veloster Turbo FWD,14395,42120,"Milwaukee, WI",$3502 below market
+a756,2018 Lincoln MKX Reserve AWD,23000,50624,"Waukegan, IL",$5709 below market
+a757,2017 Chevrolet Bolt EV LT FWD,16995,19441,"Kenosha, WI",$3911 below market
+a758,2020 Chevrolet Colorado Z71 Crew Cab 4WD,29990,42778,"Mt Pleasant, WI",$4529 below market
+a759,2015 Honda Fit EX-L with Navi,10977,102339,"Jefferson, WI",$3004 below market
+a760,2013 Kia Sorento LX,8996,113885,"Antioch, IL",$1006 below market
+a761,2021 Subaru Crosstrek Limited AWD,27988,36454,"Fox Lake, IL",$697 below market
+a762,2021 Jeep Grand Cherokee Laredo E 4WD,29800,42930,"Beaver Dam, WI",$1581 below market
+a763,2018 Jeep Wrangler Unlimited Sahara 4WD,37910,27848,"Lomira, WI",$894 below market
+a764,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a765,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a766,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a767,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a768,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a769,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a770,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a771,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a772,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a773,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a774,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a775,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a776,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a777,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a778,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a779,2017 Lexus RX 350 F Sport AWD,26995,114408,"Watertown, WI",$679 below market
+a780,2021 Lexus RX 350L AWD,44209,39218,"Brookfield, WI",$1320 below market
+a781,2022 Ford Escape Hybrid SE AWD,29000,33219,"Gurnee, IL",$718 below market
+a782,2020 Toyota Highlander XLE AWD,36607,29279,"Brookfield, WI",$1599 below market
+a783,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a784,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a785,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a786,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a787,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a788,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a789,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a790,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a791,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a792,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a793,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a794,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a795,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a796,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a797,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a798,2021 Jeep Compass Limited 4WD,21994,60395,"Waukesha, WI",$1828 below market
+a799,2018 Ford Mustang EcoBoost Premium Coupe RWD,23474,57329,"Milwaukee, WI",$1110 below market
+a800,2022 Honda CR-V EX AWD,30421,14190,"West Bend, WI",$1040 below market
+a801,2021 Chevrolet Equinox Premier FWD with 1LZ,25555,43421,"Fox Lake, IL",$881 below market
+a802,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a803,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a804,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a805,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a806,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a807,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a808,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a809,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a810,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a811,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a812,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a813,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a814,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a815,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a816,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a817,2020 Mercedes-Benz Sprinter 3500 XD 170 V6 High Roof Crew Van RWD,49499,74181,"Waukesha, WI",$19801 below market
+a818,2016 Honda CR-V SE AWD,18995,98906,"Waukesha, WI",$857 above market
+a819,2017 Kia Sedona EX,17872,108770,"Fort Atkinson, WI",$877 above market
+a820,2022 Nissan Armada Platinum 4WD,57995,15667,"Greenfield, WI",$908 above market
+a821,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a822,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a823,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a824,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a825,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a826,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a827,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a828,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a829,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a830,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a831,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a832,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a833,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a834,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a835,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a836,2022 Jeep Compass Trailhawk 4WD,30000,31285,"Beaver Dam, WI",$475 below market
+a837,2019 Jeep Cherokee Trailhawk 4WD,25495,62524,"Greenfield, WI",$467 above market
+a838,2020 Lincoln MKZ Reserve I AWD,32992,42300,"Waukesha, WI",$510 below market
+a839,2020 Ford F-150 Lariat SuperCrew 4WD,40897,71333,"Menomonee Falls, WI",$569 below market
+a840,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a841,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a842,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a843,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a844,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a845,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a846,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a847,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a848,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a849,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a850,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a851,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a852,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a853,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a854,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a855,2016 Chevrolet Impala LS FWD,17395,72099,"Waukesha, WI",$994 above market
+a856,2022 Chevrolet Silverado 1500 Work Truck Regular Cab RWD,34884,12270,"Racine, WI",$1602 above market
+a857,2017 Chevrolet Bolt EV Premier FWD,18995,24138,"Kenosha, WI",$2405 below market
+a858,2019 Subaru Outback 2.5i Premium AWD,21300,76088,"Milwaukee, WI",$1362 below market
+a859,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a860,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a861,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a862,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a863,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a864,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a865,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a866,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a867,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a868,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a869,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a870,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a871,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a872,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a873,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a874,2020 Mercedes-Benz G-Class G 550 4MATIC AWD,141565,28925,"Milwaukee, WI",$475 above market
+a875,2019 Ford Explorer Platinum AWD,36393,37549,"Milwaukee, WI",$727 below market
+a876,2020 Chevrolet Camaro,25906,32476,"Racine, WI",$2726 below market
+a877,2021 Jeep Grand Cherokee 80th Anniversary Edition 4WD,37612,16944,"Plymouth, WI",$2189 below market
+a878,2016 Ford F-150 XLT SuperCrew 4WD,23999,91455,"Random Lake, WI",$2500 below market
+a879,2022 Chevrolet Equinox LT FWD with 1LT,25500,11885,"Waukesha, WI",$1720 below market
+a880,2022 Ford F-150 XLT SuperCrew 4WD,44995,23202,"Plymouth, WI",$4813 below market
+a881,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a882,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a883,2007 Chevrolet Silverado 1500 1LT Extended Cab 4WD,4500,201000,"Jackson, WI",$2231 below market
+a884,2021 Jeep Grand Cherokee L Summit Reserve 4WD,47999,32695,"West Allis, WI",$3854 below market
+a885,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a886,2020 Chevrolet Equinox 2.0T LT AWD,21895,40548,"Milwaukee, WI",$2144 below market
+a887,2018 Chevrolet Camaro 1LT Coupe RWD,23395,47519,"Milwaukee, WI",$2160 below market
+a888,2022 Ford Bronco Outer Banks Advanced 4-Door 4WD,56900,14446,"West Bend, WI",$5246 below market
+a889,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a890,2018 Ford Escape SEL AWD,16899,63169,"Gurnee, IL",$2596 below market
+a891,2022 GMC Terrain SLE AWD,27000,7826,"Plymouth, WI",$3568 below market
+a892,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a893,2019 Subaru Outback 2.5i Premium AWD,21300,76088,"Milwaukee, WI",$1362 below market
+a894,2020 Ford Expedition Limited 4WD,45990,58135,"Milwaukee, WI",$406 below market
+a895,2021 GMC Sierra 1500 Elevation Crew Cab 4WD,44990,34841,"Burlington, WI",$458 below market
+a896,2013 Lexus RX 350 F Sport AWD,19629,93045,"Milwaukee, WI",$431 below market
+a897,2017 Chevrolet Sonic Premier Sedan FWD,7950,83829,"Salem, WI",$4331 below market
+a898,2019 Volkswagen Golf R AWD,32955,34071,"Fox Lake, IL",$5628 below market
+a899,2021 Jeep Wrangler Unlimited Rubicon 392 4WD,63865,10945,"Plymouth, WI",$12419 below market
+a900,2013 Honda Odyssey EX-L FWD,7499,169189,"Milwaukee, WI",$3679 below market
+a901,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a902,2018 RAM 1500 Express Crew Cab 4WD,15995,149988,"Milwaukee, WI",$4738 below market
+a903,2012 Chevrolet Avalanche LTZ 4WD,10995,134618,"Trevor, WI",$6150 below market
+a904,2013 Ford Escape SE AWD,6998,111077,"Milwaukee, WI",$3525 below market
+a905,2019 Chevrolet Blazer 3LT AWD,26184,42181,"Milwaukee, WI",$5836 below market
+a906,2008 Porsche Cayenne Turbo AWD,9995,118453,"Darien, WI",$6088 below market
+a907,2016 Hyundai Veloster Turbo FWD,14395,42120,"Milwaukee, WI",$3502 below market
+a908,2018 Lincoln MKX Reserve AWD,23000,50624,"Waukegan, IL",$5709 below market
+a909,2017 Chevrolet Bolt EV LT FWD,16995,19441,"Kenosha, WI",$3911 below market
+a910,2020 Chevrolet Colorado Z71 Crew Cab 4WD,29990,42778,"Mt Pleasant, WI",$4529 below market
+a911,2015 Honda Fit EX-L with Navi,10977,102339,"Jefferson, WI",$3004 below market
+a912,2020 GMC Savana Cargo 2500 Extended RWD,39310,34279,"Plymouth, WI",$7531 below market
+a913,2013 Mercedes-Benz M-Class ML 350 BlueTEC 4MATIC,17990,70818,"Milwaukee, WI",$1090 below market
+a914,2022 Jeep Renegade Limited 4WD,27600,9243,"Gurnee, IL",$1043 below market
+a915,2021 GMC Terrain SLT AWD,28800,24929,"Beaver Dam, WI",$2145 below market
+a916,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a917,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a918,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a919,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a920,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a921,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a922,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a923,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a924,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a925,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a926,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a927,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a928,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a929,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a930,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a931,2022 RAM 2500 Tradesman Crew Cab LB 4WD,44963,15421,"Kenosha, WI",$4937 below market
+a932,2021 Toyota Highlander XLE AWD,38726,24975,"Fox Lake, IL",$1232 below market
+a933,2022 BMW X7 xDrive40i AWD,73301,23501,"Milwaukee, WI",$2721 below market
+a934,2018 Hyundai Tucson 1.6T Limited AWD,23900,27090,"Gurnee, IL",$1178 below market
+a935,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a936,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a937,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a938,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a939,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a940,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a941,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a942,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a943,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a944,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a945,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a946,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a947,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a948,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a949,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a950,2018 Honda CR-V EX AWD,25000,43805,"Lake Geneva, WI",$910 below market
+a951,2014 Mercedes-Benz Sprinter Cargo 2500 144 WB RWD,21997,146953,"Milwaukee, WI",$1535 below market
+a952,2018 Ford Explorer Sport AWD,24102,104795,"Waukesha, WI",$364 below market
+a953,2021 Chevrolet Express Cargo 3500 Extended RWD,39000,47245,"Plymouth, WI",$1349 below market
+a954,2016 Ford F-150 XLT SuperCrew 4WD,23999,91455,"Random Lake, WI",$2500 below market
+a955,2022 Chevrolet Equinox LT FWD with 1LT,25500,11885,"Waukesha, WI",$1720 below market
+a956,2022 Ford F-150 XLT SuperCrew 4WD,44995,23202,"Plymouth, WI",$4813 below market
+a957,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a958,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a959,2007 Chevrolet Silverado 1500 1LT Extended Cab 4WD,4500,201000,"Jackson, WI",$2231 below market
+a960,2021 Jeep Grand Cherokee L Summit Reserve 4WD,47999,32695,"West Allis, WI",$3854 below market
+a961,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a962,2020 Chevrolet Equinox 2.0T LT AWD,21895,40548,"Milwaukee, WI",$2144 below market
+a963,2018 Chevrolet Camaro 1LT Coupe RWD,23395,47519,"Milwaukee, WI",$2160 below market
+a964,2022 Ford Bronco Outer Banks Advanced 4-Door 4WD,56900,14446,"West Bend, WI",$5246 below market
+a965,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a966,2018 Ford Escape SEL AWD,16899,63169,"Gurnee, IL",$2596 below market
+a967,2022 GMC Terrain SLE AWD,27000,7826,"Plymouth, WI",$3568 below market
+a968,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a969,2019 Subaru Outback 2.5i Premium AWD,21300,76088,"Milwaukee, WI",$1362 below market
+a970,2016 Acura RDX AWD,20987,64809,"Fox Lake, IL",$943 below market
+a971,2022 GMC Sierra 1500 AT4 Crew Cab 4WD,60985,16329,"Milwaukee, WI",$2572 below market
+a972,2019 Honda HR-V LX AWD,20595,51890,"Milwaukee, WI",$903 below market
+a973,2016 Ford F-150 XLT SuperCrew 4WD,23999,91455,"Random Lake, WI",$2500 below market
+a974,2022 Chevrolet Equinox LT FWD with 1LT,25500,11885,"Waukesha, WI",$1720 below market
+a975,2022 Ford F-150 XLT SuperCrew 4WD,44995,23202,"Plymouth, WI",$4813 below market
+a976,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a977,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a978,2007 Chevrolet Silverado 1500 1LT Extended Cab 4WD,4500,201000,"Jackson, WI",$2231 below market
+a979,2021 Jeep Grand Cherokee L Summit Reserve 4WD,47999,32695,"West Allis, WI",$3854 below market
+a980,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a981,2020 Chevrolet Equinox 2.0T LT AWD,21895,40548,"Milwaukee, WI",$2144 below market
+a982,2018 Chevrolet Camaro 1LT Coupe RWD,23395,47519,"Milwaukee, WI",$2160 below market
+a983,2022 Ford Bronco Outer Banks Advanced 4-Door 4WD,56900,14446,"West Bend, WI",$5246 below market
+a984,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a985,2018 Ford Escape SEL AWD,16899,63169,"Gurnee, IL",$2596 below market
+a986,2022 GMC Terrain SLE AWD,27000,7826,"Plymouth, WI",$3568 below market
+a987,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a988,2016 GMC Terrain SLE2 AWD,14990,74712,"Brookfield, WI",$1596 below market
+a989,2015 Hyundai Santa Fe GLS AWD,10000,159491,"West Allis, WI",$1091 below market
+a990,2019 Chevrolet Blazer 2LT AWD,28895,28887,"Racine, WI",$1390 below market
+a991,2019 Jeep Grand Cherokee Limited 4WD,27500,63854,"Plymouth, WI",$1652 below market
+a992,2021 Jeep Grand Cherokee Laredo X RWD,27507,35173,"Gurnee, IL",$5382 below market
+a993,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a994,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a995,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a996,2022 Chevrolet Silverado 1500 RST Crew Cab 4WD,50744,12165,"Cedarburg, WI",$3037 below market
+a997,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a998,2021 Volkswagen Atlas V6 SE R-Line 4Motion with Technology,35288,42879,"Milwaukee, WI",$1715 below market
+a999,2022 Volkswagen ID.4 Pro S RWD,34955,3794,"Milwaukee, WI",$2871 below market
+a1000,2023 Volkswagen Golf R 2.0T 4Motion AWD,50725,1916,"Milwaukee, WI",$3623 below market
+a1001,2020 Porsche Taycan Turbo AWD,93988,32700,"Milwaukee, WI",$8725 below market
+a1002,2020 Kia Optima SE FWD,19999,30085,"Waukegan, IL",$2662 below market
+a1003,2022 Toyota Camry Hybrid LE FWD,29999,27055,"Waukegan, IL",$1926 below market
+a1004,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a1005,2021 Honda Accord Hybrid Touring FWD,30500,24401,"Gurnee, IL",$3262 below market
+a1006,2016 Nissan Rogue S FWD,9990,101100,"Gurnee, IL",$3097 below market
+a1007,2022 RAM 1500 Big Horn Crew Cab 4WD,45559,4288,"Waukesha, WI",$2491 below market
+a1008,2022 Toyota Corolla Hybrid LE FWD,25991,34915,"Fox Lake, IL",$893 below market
+a1009,2021 Chevrolet Silverado 1500 RST Crew Cab 4WD,47790,22490,"Burlington, WI",$1675 above market
+a1010,2012 Honda CR-V EX-L AWD,13119,137774,"West Bend, WI",$427 below market
+a1011,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a1012,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a1013,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a1014,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a1015,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a1016,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a1017,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a1018,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a1019,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a1020,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a1021,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a1022,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a1023,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a1024,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a1025,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a1026,2021 Chevrolet Colorado Z71 Crew Cab 4WD,39990,13462,"Burlington, WI",$732 above market
+a1027,2023 Jeep Grand Cherokee L Limited 4WD,48303,5655,"Milwaukee, WI",$1106 below market
+a1028,2022 Ford Escape SEL AWD,31800,1687,"Beaver Dam, WI",$3987 below market
+a1029,2022 Mercedes-Benz GLE-Class GLE 350 Crossover RWD,49999,20788,"Milwaukee, WI",$7498 below market
+a1030,2017 Chevrolet Sonic Premier Sedan FWD,7950,83829,"Salem, WI",$4331 below market
+a1031,2019 Volkswagen Golf R AWD,32955,34071,"Fox Lake, IL",$5628 below market
+a1032,2021 Jeep Wrangler Unlimited Rubicon 392 4WD,63865,10945,"Plymouth, WI",$12419 below market
+a1033,2013 Honda Odyssey EX-L FWD,7499,169189,"Milwaukee, WI",$3679 below market
+a1034,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a1035,2018 RAM 1500 Express Crew Cab 4WD,15995,149988,"Milwaukee, WI",$4738 below market
+a1036,2012 Chevrolet Avalanche LTZ 4WD,10995,134618,"Trevor, WI",$6150 below market
+a1037,2013 Ford Escape SE AWD,6998,111077,"Milwaukee, WI",$3525 below market
+a1038,2019 Chevrolet Blazer 3LT AWD,26184,42181,"Milwaukee, WI",$5836 below market
+a1039,2008 Porsche Cayenne Turbo AWD,9995,118453,"Darien, WI",$6088 below market
+a1040,2016 Hyundai Veloster Turbo FWD,14395,42120,"Milwaukee, WI",$3502 below market
+a1041,2018 Lincoln MKX Reserve AWD,23000,50624,"Waukegan, IL",$5709 below market
+a1042,2017 Chevrolet Bolt EV LT FWD,16995,19441,"Kenosha, WI",$3911 below market
+a1043,2020 Chevrolet Colorado Z71 Crew Cab 4WD,29990,42778,"Mt Pleasant, WI",$4529 below market
+a1044,2015 Honda Fit EX-L with Navi,10977,102339,"Jefferson, WI",$3004 below market
+a1045,2021 Lexus RC 350 RWD,38999,32439,"Milwaukee, WI",$664 below market
+a1046,2020 Mercedes-Benz Sprinter 3500 XD 170 V6 High Roof Crew Van RWD,49499,74181,"Waukesha, WI",$19801 below market
+a1047,2020 Ford F-150 XLT SuperCrew 4WD,31499,81629,"Random Lake, WI",$2289 below market
+a1048,2021 Ford F-150 XLT SuperCrew 4WD,44239,44383,"Milwaukee, WI",$521 below market
+a1049,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a1050,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a1051,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a1052,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a1053,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a1054,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a1055,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a1056,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a1057,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a1058,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a1059,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a1060,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a1061,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a1062,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a1063,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a1064,2012 Mitsubishi Eclipse GS Sport,7359,80738,"West Bend, WI",$1929 below market
+a1065,2022 Jeep Compass Latitude 4WD,26726,16547,"Fox Lake, IL",$1557 below market
+a1066,2020 RAM 1500 Lone Star Crew Cab LB 4WD,36990,94480,"Fox Lake, IL",$1652 above market
+a1067,2021 Chrysler Pacifica Hybrid Limited FWD,39800,26215,"Beaver Dam, WI",$808 below market
+a1068,2004 Cadillac XLR RWD,20499,49495,"Brown Deer, WI",$4116 below market
+a1069,2017 RAM 3500 Laramie Crew Cab LB DRW 4WD,48951,87237,"Milwaukee, WI",$3663 below market
+a1070,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a1071,2018 Ford Escape S FWD,14995,73707,"Plymouth, WI",$1562 below market
+a1072,2021 Ford F-150 XLT SuperCrew 4WD,40995,12652,"Plymouth, WI",$3773 below market
+a1073,2021 Honda Passport Elite AWD,37585,13332,"Milwaukee, WI",$2187 below market
+a1074,2021 BMW X3 xDrive30e AWD,41965,15637,"Milwaukee, WI",$2672 below market
+a1075,2020 Ford Ranger XL SuperCab 4WD,19580,133189,"Watertown, WI",$2291 below market
+a1076,2019 Ford Escape SE AWD,20455,36178,"Kenosha, WI",$1698 below market
+a1077,2017 Jeep Wrangler Unlimited Sport 4WD,28264,29282,"Greenfield, WI",$2328 below market
+a1078,2021 Volkswagen Jetta S FWD,18500,41000,"Oostburg, WI",$1613 below market
+a1079,2019 Mercedes-Benz C-Class C 300 4MATIC AWD,28990,27213,"Oconomowoc, WI",$2571 below market
+a1080,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a1081,2021 Cadillac XT4 Sport AWD,34999,17477,"Saukville, WI",$3290 below market
+a1082,2022 Chevrolet Silverado 1500 LT Crew Cab 4WD,40999,3723,"Saukville, WI",$4665 below market
+a1083,2016 Ford F-350 Super Duty Chassis,42999,47584,"West Bend, WI",$3589 above market
+a1084,2020 Jeep Grand Cherokee Limited X 4WD,35476,35692,"Milwaukee, WI",$1234 below market
+a1085,2022 Chevrolet Equinox LT FWD with 1LT,25500,11885,"Waukesha, WI",$1720 below market
+a1086,2021 Lexus RX 350 F Sport AWD,47411,37962,"Milwaukee, WI",$1225 below market
+a1087,2017 Chevrolet Sonic Premier Sedan FWD,7950,83829,"Salem, WI",$4331 below market
+a1088,2019 Volkswagen Golf R AWD,32955,34071,"Fox Lake, IL",$5628 below market
+a1089,2021 Jeep Wrangler Unlimited Rubicon 392 4WD,63865,10945,"Plymouth, WI",$12419 below market
+a1090,2013 Honda Odyssey EX-L FWD,7499,169189,"Milwaukee, WI",$3679 below market
+a1091,2010 MINI Cooper Base Convertible,5995,94359,"Milwaukee, WI",$2945 below market
+a1092,2018 RAM 1500 Express Crew Cab 4WD,15995,149988,"Milwaukee, WI",$4738 below market
+a1093,2012 Chevrolet Avalanche LTZ 4WD,10995,134618,"Trevor, WI",$6150 below market
+a1094,2013 Ford Escape SE AWD,6998,111077,"Milwaukee, WI",$3525 below market
+a1095,2019 Chevrolet Blazer 3LT AWD,26184,42181,"Milwaukee, WI",$5836 below market
+a1096,2008 Porsche Cayenne Turbo AWD,9995,118453,"Darien, WI",$6088 below market
+a1097,2016 Hyundai Veloster Turbo FWD,14395,42120,"Milwaukee, WI",$3502 below market
+a1098,2018 Lincoln MKX Reserve AWD,23000,50624,"Waukegan, IL",$5709 below market
+a1099,2017 Chevrolet Bolt EV LT FWD,16995,19441,"Kenosha, WI",$3911 below market
+a1100,2020 Chevrolet Colorado Z71 Crew Cab 4WD,29990,42778,"Mt Pleasant, WI",$4529 below market
+a1101,2015 Honda Fit EX-L with Navi,10977,102339,"Jefferson, WI",$3004 below market
+a1102,2018 Ford Taurus SEL AWD,21480,40210,"Oconomowoc, WI",$996 below market
+a1103,2021 Lexus RX 350 AWD,44679,23671,"Milwaukee, WI",$1837 below market
+a1104,2018 Subaru WRX Limited,23995,72813,"Plymouth, WI",$566 below market
+a1105,2018 Jeep Wrangler Unlimited Rubicon 4WD,44000,23730,"Beaver Dam, WI",$896 below market
+a1106,2020 Ford F-150 XLT SuperCrew 4WD,29789,67136,"Gurnee, IL",$4872 below market
+a1107,2015 Chevrolet Camaro 2SS Convertible RWD,27999,39350,"Saukville, WI",$2487 below market
+a1108,2021 Chevrolet Silverado 1500 LT Trail Boss Crew Cab 4WD,45993,22359,"Cedarburg, WI",$2748 below market
+a1109,2022 Chevrolet Express Chassis 3500 Cutaway 177,49900,7621,"Cedarburg, WI",$4248 below market
+a1110,2021 Volkswagen Tiguan SE 4Motion,26713,22075,"Milwaukee, WI",$2034 below market
+a1111,2022 GMC Terrain SLE AWD,27000,19214,"Plymouth, WI",$2606 below market
+a1112,2020 Ford F-250 Super Duty Lariat Crew Cab LB 4WD,61103,50774,"Plymouth, WI",$4804 below market
+a1113,2021 Jeep Grand Cherokee L Overland 4WD,49179,23566,"Plymouth, WI",$3478 below market
+a1114,2013 RAM 1500 Express Crew Cab 4WD,18400,86082,"Plymouth, WI",$2485 below market
+a1115,2015 RAM 1500 Laramie Longhorn Crew Cab 4WD,25292,99786,"Plymouth, WI",$2479 below market
+a1116,2020 RAM 1500 Limited Crew Cab 4WD,45228,60517,"Plymouth, WI",$2909 below market
+a1117,2022 Mercedes-Benz GLC-Class GLC 300 4MATIC SUV AWD,39999,6356,"Milwaukee, WI",$5986 below market
+a1118,2019 Lexus RX Hybrid 450h AWD,42066,38079,"Milwaukee, WI",$2306 below market
+a1119,2022 Lexus RX Hybrid 450h AWD,56448,1642,"Milwaukee, WI",$2638 below market
+a1120,2012 Chevrolet Impala LT Fleet FWD,6495,148288,"Fort Atkinson, WI",$1583 below market
+a1121,2018 Chevrolet Equinox 1.5T Premier AWD,18350,98690,"Lomira, WI",$793 below market
+a2595,2020 BMW X2 sDrive28i,26561,43534, ,
+a1794,2020 BMW X2 sDrive28i,29292,23202, ,
+a890,2020 Toyota Camry XSE,30267,22452, ,
+a713,2021 Volkswagen Atlas SE,32159,18784, ,
+a1326,2019 Lexus ES 350,32190,33300, ,
+a338,2021 BMW X2 sDrive28i,32394,17934, ,
+a1470,2020 BMW 330i Sedan,32586,17447, ,
+a699,2021 Cadillac CT4 Premium Luxury,32850,12112, ,
+a796,2020 BMW 330i Sedan,32886,21803, ,
+a411,2020 BMW 330i Sedan,33321,14519, ,
+a1953,2020 BMW 330i Sedan,33752,8971, ,
+a876,2019 Audi e-tron Premium Plus,40133,8051, ,
+a406,2021 Lexus IS 350 F Sport,40401,15048, ,
+a978,2020 Lexus RC 300 F Sport,40553,15854, ,
+a1201,2023 Chevrolet Silverado 1500 Custom,42749,6810, ,
+a1157,2022 Volvo XC60 B5 Inscription,42943,5033, ,
+a577,2022 Lexus NX 350 F Sport,44594,5419, ,
+a2000,2020 Audi SQ5 Prestige,45621,21143, ,
+a1402,2018 Porsche Macan GTS,51084,32844, ,
+a1531,2019 Mercedes-Benz E 53 AMG 4MATIC Sedan,52276,26282, ,
+a1578,2020 BMW M550i xDrive,55913,26056, ,
+a1257,2020 BMW 840i xDrive,60435,20940, ,
+a306,2023 BMW X5 sDrive40i,60516,8307, ,
+a1149,2020 BMW X4 M,61190,28045, ,
+a1744,2020 BMW X7 M50i,72323,20044, ,
+a557,2022 Chevrolet Corvette Stingray Preferred Cpe,82420,10970, ,
+a1337,2016 Lexus IS 300 AWD,20993,81036, ,
+a948,2020 Jeep Compass Limited,21195,36070, ,
+a491,2021 Buick Encore GX Select,23791,8826, ,
+a1164,2018 Mercedes-Benz GLC 300,25495,46176, ,
+a330,2018 Cadillac XT5 Premium Luxury,25691,49795, ,
+a1975,2020 BMW X2 sDrive28i,29491,18657, ,
+a1320,2020 BMW X3 sDrive30i,31091,27831, ,
+a1339,2020 Honda Odyssey EX-L,33291,24898, ,
+a1502,2022 Cadillac XT4 Luxury,33911,9564, ,
+a453,2020 Lexus ES 350,34993,19740, ,
+a1242,2021 Lexus ES 350,35191,14516, ,
+a658,2015 Toyota Corolla LE,10899,79625, ,
+a989,2017 Kia Sportage EX,17899,49260, ,
+a1612,2020 Hyundai Elantra Value Edition,17899,29812, ,
+a528,2019 Volkswagen Atlas SE,26899,30746, ,
+a710,2017 Ford Escape SE,13998,50095, ,
+a718,2021 Nissan Sentra SV,19498,18828, ,
+a1469,2020 Nissan Kicks SR,20998,20417, ,
+a580,2023 Cadillac XT4 Premium Luxury,37498,5710, ,
+a1497,2022 Honda Civic Sport,26993,13373, ,
+a1307,2021 Honda Accord Sport,28635,16347, ,
+a938,2021 Toyota Corolla LE,21990,22505, ,
+a1272,2020 Toyota Corolla LE,19299,25187, ,
+a1663,2020 Toyota Corolla LE,19499,27289, ,
+a1067,2020 Toyota Camry LE,22899,14820, ,
+a1482,2021 Toyota C-HR LE,23899,11379, ,
+a751,2017 Mercedes-Benz E 300,25399,36532, ,
+a536,2020 Toyota RAV4 XLE,27199,29460, ,
+a886,2021 Toyota RAV4 LE,27399,10804, ,
+a891,2021 Toyota Venza LE,30989,9441, ,
+a643,2019 RAM 1500 Laramie Longhorn,45998,31517, ,
+a410,2020 Ford Ranger XL,25991,41513, ,
+a627,2020 Ford Explorer XLT,28994,32226, ,
+a1381,2020 Lexus UX 200 F Sport,29889,27552, ,
+a529,2022 Ford F150 XLT,43991,11501, ,
+a1638,2021 Chevrolet Equinox LS,17995,19639, ,
+a548,2016 Maserati Ghibli S Q4,18377,63250, ,
+a1782,2016 BMW X4 xDrive28i,19850,57240, ,
+a376,2015 Ford Mustang Convertible,18490,62380, ,
+a1920,2020 Buick Encore Preferred,19990,7697, ,
+a1941,2020 GMC Terrain SLE,22490,18380, ,
+a1550,2022 Buick Encore Preferred,23990,6401, ,
+a1390,2018 Audi A4 2.0T Premium Plus,24990,46461, ,
+a1085,2021 MAZDA CX-30 AWD 2.5 S,25990,10005, ,
+a1747,2019 FIAT 500 Pop,15998,25271, ,
+a1755,2019 Jeep Compass Latitude,20998,17105, ,
+a646,2022 Kia Soul Turbo,23998,3650, ,
+a1637,2016 Dodge Challenger R/T Plus,23998,57155, ,
+a1326,2017 BMW X5 xDrive35i,25998,58253, ,
+a1793,2017 Jeep Wrangler Unlimited Sport,26998,53291, ,
+a1338,2022 Land Rover Range Rover Velar R-Dynamic S,54998,9196, ,
+a1208,2021 MINI Cooper S,25298,16880, ,
+a1816,2020 BMW 330i Sedan,28996,22340, ,
+a572,2020 Volvo XC60 T5 Momentum,32490,18138, ,
+a1167,2019 Chevrolet Equinox LS,20991,12714, ,
+a571,2023 GMC Sierra 1500 AT4,68991,5487, ,
+a992,2020 MAZDA CX-30 FWD,20090,14125, ,
+a1133,2021 MAZDA MAZDA3 s,23000,5622, ,
+a1419,2020 MAZDA CX-5 Touring,23007,29949, ,
+a615,2020 MAZDA CX-5 Grand Touring,24762,29729, ,
+a307,2022 Volkswagen Taos SE,25714,4398, ,
+a1486,2019 Audi A4 2.0T Premium,26945,13734, ,
+a1275,2020 Hyundai Elantra Value Edition,18490,21836, ,
+a1215,2019 Honda Civic LX,19490,21674, ,
+a612,2020 Honda Accord LX,22900,22429, ,
+a623,2020 Honda Accord LX,22900,24235, ,
+a462,2020 Honda Civic Sport,22900,28420, ,
+a1733,2021 GMC Terrain SLE,23490,18427, ,
+a1940,2020 Honda CR-V LX,23490,28045, ,
+a1380,2022 Honda HR-V LX,23900,8060, ,
+a1662,2020 MAZDA CX-5 Grand Touring,24490,21952, ,
+a380,2020 Honda Accord Sport,24490,29535, ,
+a979,2020 Honda CR-V LX,24490,12982, ,
+a1203,2020 Honda CR-V LX,24490,16639, ,
+a1720,2020 MAZDA CX-5 Grand Touring,24900,15211, ,
+a1243,2021 Honda Civic EX,24900,2260, ,
+a386,2021 Honda Accord Sport,26190,14133, ,
+a867,2021 Honda Accord Sport,26490,16787, ,
+a1408,2020 Honda CR-V EX,26900,10627, ,
+a816,2020 Honda CR-V EX,26900,9160, ,
+a1033,2021 Honda CR-V EX,27490,14433, ,
+a805,2020 Honda CR-V EX-L,27900,26985, ,
+a330,2021 MAZDA CX-9 Touring,28490,19817, ,
+a375,2021 Honda CR-V EX-L,28490,19851, ,
+a1377,2021 Honda CR-V EX,28490,3395, ,
+a913,2021 Audi Q3 2.0T Premium,30900,11041, ,
+a1458,2012 Nissan Altima 2.5 SL,4990,98272, ,
+a1450,2015 Chevrolet Silverado 1500 LT,14490,104141, ,
+a850,2019 Chevrolet Equinox LS,17490,48780, ,
+a955,2019 Toyota Corolla LE,18490,26576, ,
+a1846,2020 Nissan Kicks SR,20490,28727, ,
+a1942,2016 RAM 1500 Express,22990,51046, ,
+a698,2018 Chevrolet Traverse Premier,28990,42735, ,
+a579,2020 Chevrolet Traverse LT,29490,36843, ,
+a394,2023 Hyundai Santa Cruz SEL,32990,1226, ,
+a481,2022 Chevrolet Silverado 1500 LT,47490,5260, ,
+a1324,2022 Chevrolet Suburban LT,66990,8917, ,
+a1916,2015 Audi Q5 2.0T Premium,15000,77901, ,
+a1390,2020 Kia Forte LXS,18000,8050, ,
+a1754,2018 Hyundai Elantra SEL,14709,43260, ,
+a1132,2018 Hyundai Sonata SE,17299,17512, ,
+a1558,2020 Hyundai Elantra Value Edition,17699,24065, ,
+a1955,2020 Hyundai Sonata SE,20299,15160, ,
+a1235,2021 Hyundai Sonata SEL,20899,14515, ,
+a688,2020 Hyundai Sonata SEL,20899,24061, ,
+a1632,2020 Hyundai Santa Fe SE,20999,23725, ,
+a1290,2020 Honda HR-V Sport,21999,21522, ,
+a523,2020 Hyundai Santa Fe SEL,23299,21662, ,
+a941,2021 MINI Cooper S,23994,12973, ,
+a1791,2020 Toyota RAV4 LE,24199,27488, ,
+a495,2021 MINI Cooper S,24849,11758, ,
+a440,2020 Subaru Outback Premium,25399,19351, ,
+a917,2021 Hyundai Santa Fe SEL,25799,17299, ,
+a611,2021 Genesis G70 2.0T,30155,13052, ,
+a1530,2021 Genesis G70 2.0T,30402,15969, ,
+a887,2020 BMW X3 sDrive30i,32199,21257, ,
+a1320,2023 Hyundai Tucson Limited,33799,8561, ,
+a1775,2021 Cadillac CT4 Sport,35899,14812, ,
+a1324,2023 Hyundai Santa Fe Calligraphy,37299,4365, ,
+a1901,2023 Genesis G70 2.0T,39099,7014, ,
+a806,2022 Chrysler Pacifica Limited,40899,7274, ,
+a1111,2019 BMW 540i,34989,37454, ,
+a1286,2021 BMW X3 sDrive30i,37438,15986, ,
+a714,2020 BMW X4 xDrive30i,44948,24394, ,
+a769,2021 Cadillac XT5 Luxury,30994,18291, ,
+a1690,2021 Cadillac XT5 Luxury,31996,9715, ,
+a1166,2021 Cadillac CT5 Luxury,32495,17850, ,
+a1889,2020 Cadillac XT6 Premium Luxury,36493,22386, ,
+a937,2022 Cadillac CT5 Sport,44993,2620, ,
+a1907,2021 INFINITI QX50 Sensory,32994,18933, ,
+a1419,2020 Nissan Pathfinder S,23435,27133, ,
+a483,2020 Subaru WRX Limited,30935,20244, ,
+a588,2017 Kia Cadenza Premium,15148,68625, ,
+a389,2020 Toyota Camry LE,21535,17175, ,
+a1261,2019 Chevrolet Colorado W/T,24877,16263, ,
+a1570,2020 Volkswagen Tiguan SE R-Line,25899,16755, ,
+a1931,2019 Mercedes-Benz C 300 Sedan,29683,22942, ,
+a1026,2020 BMW 330i xDrive Sedan,31395,20411, ,
+a1328,2021 Lexus NX 300 F Sport,33798,22496, ,
+a638,2022 Chevrolet Silverado 1500 Custom,35780,4843, ,
+a1244,2020 Lexus ES 350 F Sport,36970,25552, ,
+a394,2019 Audi e-tron Premium Plus,37889,20877, ,
+a718,2019 Chevrolet Silverado 1500 LTZ,39066,25276, ,
+a1544,2021 INFINITI Q50 Red Sport 400,39592,15830, ,
+a1218,2019 Chevrolet Silverado 1500 LTZ,40985,23592, ,
+a1678,2022 Chevrolet Silverado 1500 RST,44645,7676, ,
+a1321,2020 Chevrolet Silverado 1500 LTZ,44781,27512, ,
+a629,"2022 Mercedes-Benz Sprinter 144"" Cargo",48470,12100, ,
+a1219,2022 Chevrolet Silverado 1500 LTZ,48988,5784, ,
+a674,2021 Chevrolet Silverado 1500 High Country,50593,18618, ,
+a1173,2021 Chevrolet Silverado 1500 High Country,51321,7969, ,
+a1601,2022 Chevrolet Silverado 1500 RST,53895,5584, ,
+a1605,2020 Audi A3 2.0T,24012,36538, ,
+a625,2020 Audi SQ5 Premium Plus,44056,13054, ,
+a1594,2021 Chevrolet Silverado 1500 Custom,33800,8676, ,
+a1650,2023 Chevrolet Silverado 1500 RST,52607,1314, ,
+a1178,2020 Toyota Corolla SE,20900,29366, ,
+a1706,2021 MAZDA CX-30 FWD 2.5 S,21900,13793, ,
+a848,2020 MAZDA CX-5 Sport,21990,29700, ,
+a571,2021 MAZDA CX-30 AWD 2.5 S,22900,13835, ,
+a722,2020 Porsche Macan Turbo,67900,19723, ,
+a1708,2019 Mercedes-Benz S 560 4MATIC Coupe,69991,30219, ,
+a871,2017 Honda Civic LX,16490,39041, ,
+a1665,2020 Kia Optima S,19990,23175, ,
+a1379,2018 Chevrolet Camaro LT,22490,39477, ,
+a815,2020 Chevrolet Equinox Premier,23490,27430, ,
+a1723,2021 Chevrolet Traverse LS,26990,15869, ,
+a751,2022 Volkswagen Tiguan SE,27690,7468, ,
+a744,2021 Chevrolet Traverse LS,28490,18251, ,
+a1425,2020 Chevrolet Traverse LT,28490,20339, ,
+a343,2017 Hyundai Elantra Value Edition,16591,42206, ,
+a1233,2020 Nissan Sentra SV,19995,24599, ,
+a1220,2021 Nissan Rogue Sport S,20995,15939, ,
