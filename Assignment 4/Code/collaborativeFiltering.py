@@ -11,8 +11,12 @@ def predictRating(pickedUserId, movieId):
     # print(train_data.head())
 
 
-    matrix = train_data.pivot_table(index='userId', columns='movieId', values='rating')
+    # matrix = train_data.pivot_table(index='userId', columns='movieId', values='rating')
+    matrix = train_data.pivot_table(index='movieId', columns='userId', values='rating')
+
     # print(matrix.head())
+
+
 
     matrixNorm = matrix.subtract(matrix.mean(axis=1), axis = 'rows')
 
